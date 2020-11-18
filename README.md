@@ -34,34 +34,30 @@ Before you begin the labs you will require a Microsoft account. [Sign up here](h
 * [Lab_02 - Load data in Power BI Desktop](https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/8-lab)
 * [Exx_04 - Clean, transform, and load data in Power BI](knowledge_check/session_01/Exx_04.md)
 
-
-## Session 02 - Modelling the Data
-
-
+## Session 02 - Modeling the Data
+* [Exx_01 - Design a data model in Power BI](knowledge_check/session_02/Exx_01.md)
+* [Lab_01 - Data modeling in Power BI Desktop](https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/8-lab)
+* [Lab_02 - Developing a data model](https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/9-lab)
+* [Exx_02 - Introduction to creating measures using DAX in Power BI](knowledge_check/session_01/Exx_02.md)
+* [Lab_03 - Time Intelligence and Measures in DAX](https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/8-lab)
+* [Exx_03 - Optimize a model for performance in Power BI ](knowledge_check/session_02/Exx_03.md)
 
 ## Session 3 - Visualizing & Analyzing the Data
-
-
-
+* [Exx_01 - Work with Power BI visuals](knowledge_check/session_03/Exx_01.md)
+* [Lab_01 - Design a report in Power BI desktop](https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/8-lab)
+* [Exx_02 - Create a data-driven story with Power BI reports](knowledge_check/session_03/Exx_02.md)
+* [Lab_02 - Enhance Power BI reports with slicers, interaction, and formatting](https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/13-lab)
+* [Exx_03 - Create dashboards in Power BI](knowledge_check/session_03/Exx_03.md)
+* [Lab_03 - Create a Power BI dashboard](https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/9-lab)
+* [Exx_04 - Create paginated reports ](knowledge_check/session_03/Exx_04.md)
+* [Lab_04 - Create a paginated report](https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/6-lab)
+* [Exx_05 - Perform analytics in Power BI ](knowledge_check/session_03/Exx_05.md)
+* [Exx_06 - Work with AI visuals in Power BI](knowledge_check/session_03/Exx_06.md)
 
 ## Session 4 - Deploy and maintain deliverables:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* [Exx_01 - Create and manage workspaces in Power BI](knowledge_check/session_04/Exx_01.md)
+* [Exx_02 - Manage datasets in Power BI ](knowledge_check/session_04/Exx_02.md)
+* [Exx_03 - Implement row-level security](knowledge_check/session_04/Exx_03.md)
 
 ## Completing the knowledge checks
 
