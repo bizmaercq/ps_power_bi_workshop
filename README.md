@@ -59,6 +59,10 @@ Before you begin the labs you will require a Microsoft account. [Sign up here](h
 * [Exx_02 - Manage datasets in Power BI ](knowledge_check/session_04/Exx_02.md)
 * [Exx_03 - Implement row-level security](knowledge_check/session_04/Exx_03.md)
 
+
+## Workshop Resoureces 
+* [DA100.zip](resources/DA100.zip)
+
 ## Completing the knowledge checks
 
 Complete the knowledge checks in order by following the links on the [Knowledge Check](knowledge_check/README.md) page.
