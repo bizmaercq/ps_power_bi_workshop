@@ -38,7 +38,7 @@ Before you begin the labs you will require a Microsoft account. [Sign up here](h
 * [Exx_01 - Design a data model in Power BI](knowledge_check/session_02/Exx_01.md)
 * [Lab_01 - Data modeling in Power BI Desktop](https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/8-lab)
 * [Lab_02 - Developing a data model](https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/9-lab)
-* [Exx_02 - Introduction to creating measures using DAX in Power BI](knowledge_check/session_01/Exx_02.md)
+* [Exx_02 - Introduction to creating measures using DAX in Power BI](knowledge_check/session_02/Exx_02.md)
 * [Lab_03 - Introduction to DAX in Power BI Desktop](https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/6-lab)
 * [Lab_04 - Time Intelligence and Measures in DAX](https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/8-lab)
 * [Exx_03 - Optimize a model for performance in Power BI ](knowledge_check/session_02/Exx_03.md)
