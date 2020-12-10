@@ -64,6 +64,7 @@ Before you begin the labs you will require a Microsoft account. [Sign up here](h
 
 ## Workshop Resoureces 
 * [DA100.zip](resources/DA100.zip)
+* [Sales Order Report.rdl](resources/SalesOrderReport.rdl)
 
 ## Completing the knowledge checks
 
