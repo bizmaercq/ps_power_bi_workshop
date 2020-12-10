@@ -53,6 +53,7 @@ Before you begin the labs you will require a Microsoft account. [Sign up here](h
 * [Exx_04 - Create paginated reports ](knowledge_check/session_03/Exx_04.md)
 * [Lab_04 - Create a paginated report](https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/6-lab)
 * [Download Power BI report builder](https://download.microsoft.com/download/F/F/9/FF945E45-7D61-49DD-B982-C5D93D3FB0CF/PowerBiReportBuilder.en-US.msi)
+* [Asset for Lab_04 Sales Order Report.rdl](resources/SalesOrderReport.rdl)
 * [Exx_05 - Perform analytics in Power BI ](knowledge_check/session_03/Exx_05.md)
 * [Exx_06 - Work with AI visuals in Power BI](knowledge_check/session_03/Exx_06.md)
 
